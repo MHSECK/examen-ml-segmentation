@@ -1,0 +1,18 @@
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Notebooks : points de sauvegarde automatiques
+.ipynb_checkpoints/
+
+# Fichiers système et éditeur
+.DS_Store
+.vscode/
+.idea/
+
+# Configuration locale de Streamlit (peut contenir des secrets)
+.streamlit/secrets.toml
